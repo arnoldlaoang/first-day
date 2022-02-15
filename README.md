@@ -11,4 +11,4 @@
 
 ## I like art
 
-# I like traveling
+# I like cats

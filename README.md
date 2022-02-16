@@ -10,3 +10,5 @@
 ## I like traveling
 
 # I like cats
+
+# Branching example
